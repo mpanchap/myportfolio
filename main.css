@@ -113,6 +113,14 @@ footer {
     text-decoration: underline; /* Add underline on hover */
 }
 
+p {
+    padding-bottom: 10px;
+}
+
+.p-next {
+    padding-top: 20px;
+}
+
 img {
     width: 150px; /* Change the width to your desired size */
     height: auto;  /* Maintain aspect ratio */
