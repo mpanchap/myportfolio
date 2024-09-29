@@ -106,3 +106,9 @@ footer {
 .hover-underline:hover {
     text-decoration: underline; /* Add underline on hover */
 }
+
+.img {
+    width: 100px; /* Change the width to your desired size */
+    height: auto;  /* Maintain aspect ratio */
+    margin: 10px;  /* Optional: Adds space between images */
+}
