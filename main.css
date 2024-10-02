@@ -123,3 +123,6 @@ img {
     margin: 10px;  /* Optional: Adds space between images */
 }
 
+nav ul li {
+    margin: 0 10px;
+}
