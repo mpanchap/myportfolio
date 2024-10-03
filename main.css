@@ -101,7 +101,7 @@ footer {
 
 .hover-underline {
     text-decoration: none; /* Remove underline by default */
-    color: #007BFF; /* Text color */
+    color: #3e7fc4; /* Text color */
     transition: text-decoration 0.3s ease; /* Smooth transition */
 }
 
